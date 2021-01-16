@@ -1,7 +1,4 @@
-# [Sunflower](community_garden.md)
-Open source ecology and electronics
-
----
+## 0. [Open Source Ecology and Electronics](https://eoduniyi.github.io/sunflower/)
 
 The **Environmentally Assisting Robotic System** (`envi-assist`, `enviAssist`, `EA`, `envi_assist()`) is a [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence#:~:text=Collective%20intelligence%20(CI)%20is%20shared,peer%20review%20and%20crowdsourcing%20applications.) system for helping human operators manage and distribute work tasks related to [agriculture](https://en.wikipedia.org/wiki/Agriculture), [forestry](https://en.wikipedia.org/wiki/Forestry), and [restoration](https://en.wikipedia.org/wiki/Restoration_ecology).
 
