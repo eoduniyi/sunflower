@@ -1,4 +1,4 @@
-# Sunflower
+# [Sunflower](community_garden.md)
 Open source ecology and electronics
 
 ---
